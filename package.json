@@ -1,7 +1,7 @@
 {
-  "name": "cidr.xyz",
+  "name": "cidr.v4",
   "version": "1.0.0",
-  "description": "Web-based CIDR / netmask / IP address visualizer",
+  "description": "Web-based CIDR / netmask / IPv4 address visualizer",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
